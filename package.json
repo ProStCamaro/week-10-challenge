@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "jest": "^29.6.1"
+  },
+  "dependencies": {
+    "@svgdotjs/svg.js": "^3.2.0",
+    "svgdom": "^0.1.14"
+  }
+}
